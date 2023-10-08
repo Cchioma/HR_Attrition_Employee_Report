@@ -72,9 +72,18 @@ During data analysis, several key performance indicators (KPIs) were identified.
  ![](job_role.PNG)
    
 5.	Job satisfaction ranged from 46 to 73 across four levels.
-7.	In the "Life Sciences" education field, attrition was the highest at 89, significantly surpassing "Human Resources" with the lowest attrition at 7.
-8.	Employees with 1 year at the company had the highest attrition rate at 98, significantly higher than those with 8 years (the lowest at 6).
-9.	Employees who have worked at 1 company had the highest attrition rate at 59, followed by those with 2 and 5 companies worked.
+   ![](job_satisfaction.PNG)
+  	
+6.	In the "Life Sciences" education field, attrition was the highest at 89, significantly surpassing "Human Resources" with the lowest attrition at 7.
+   ![](education_field.PNG)
+  	
+7.	Employees with 1 year at the company had the highest attrition rate at 98, significantly higher than those with 8 years (the lowest at 6).
+![](years_company.PNG)
+	
+8.	Employees who have worked at 1 company had the highest attrition rate at 59, followed by those with 2 and 5 companies worked.
+![](company_worked.PNG)
+
+9.  
 
 ## Recommendations
 1.	Consider conducting surveys or assessments to understand the reasons for higher attrition in the 25-34 age group and implement targeted retention strategies
