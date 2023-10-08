@@ -55,19 +55,30 @@ The dataset was imported into Power BI’s Power Query for data validation and c
     c.	Active Employees = CALCULATE('_Measures'[Total Employees], 'HR-              Employee-Attrition'[Attrition] = "No")
     d.	Total Employees = COUNT('HR-Employee-Attrition'[EmployeeId])
 
-## Data Visualization
+## ## Insights and Visualization
 During data analysis, several key performance indicators (KPIs) were identified. The organization has a total workforce of 1470 employees, with 237 employees experiencing attrition, leaving 1233 active employees. The average age of employees is calculated to be 36.92 years, and the attrition rate stands at 16%.
 ![](kpi.PNG)
 
-## Insights
 1.	Employees in the age group 25-34 had the highest attrition at 112, which was significantly higher (918.18%) than employees aged 55 and above (11 attritions)
-2.	Singles had the highest Attrition at 120, followed by the Married at 84 and divorced at 33.  
+
+  ![](age_group.PNG)
+  
+2.	Singles had the highest Attrition at 120, followed by the Married at 84 and divorced at 33.
+
+   ![](marital_status.PNG)
+   
 3.	Male employees had a higher attrition rate (150) compared to female employees (87).
+
+   ![](gender.PNG)
+   
 4.	The job role "Laboratory Technician" had the highest attrition at 62, which was 416.67% higher than the job role "Human Resources" with the lowest attrition (12).
+
+   ![](job_role.PNG)
+   
 5.	Job satisfaction ranged from 46 to 73 across four levels.
-6.	In the "Life Sciences" education field, attrition was the highest at 89, significantly surpassing "Human Resources" with the lowest attrition at 7.
-7.	Employees with 1 year at the company had the highest attrition rate at 98, significantly higher than those with 8 years (the lowest at 6).
-8.	Employees who have worked at 1 company had the highest attrition rate at 59, followed by those with 2 and 5 companies worked.
+7.	In the "Life Sciences" education field, attrition was the highest at 89, significantly surpassing "Human Resources" with the lowest attrition at 7.
+8.	Employees with 1 year at the company had the highest attrition rate at 98, significantly higher than those with 8 years (the lowest at 6).
+9.	Employees who have worked at 1 company had the highest attrition rate at 59, followed by those with 2 and 5 companies worked.
 
 ## Recommendations
 1.	Consider conducting surveys or assessments to understand the reasons for higher attrition in the 25-34 age group and implement targeted retention strategies
