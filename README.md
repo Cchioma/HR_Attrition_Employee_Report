@@ -57,6 +57,7 @@ The dataset was imported into Power BI’s Power Query for data validation and c
 
 ## Data Visualization
 During data analysis, several key performance indicators (KPIs) were identified. The organization has a total workforce of 1470 employees, with 237 employees experiencing attrition, leaving 1233 as active employees. The average age of employees is calculated to be 36.92 years, and the attrition rate stands at 16%.
+
 ![](kpi.PNG)
 
 
