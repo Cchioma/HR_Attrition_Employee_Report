@@ -2,11 +2,7 @@
 ![](attrtion_image.jpg)
 
 ## Background
-Employee attrition, often referred to as staff attrition or employee turnover, is the rate at which employees leave an organization over a specific period of time. A critical human resources (HR) metric quantifies the number or percentage of employees who voluntarily or involuntarily depart from their jobs and are replaced by new employees. 
-There are two main types of employee attrition:
-1.  Voluntary Attrition: This occurs when employees choose to leave their jobs voluntarily. Reasons for voluntary attrition can vary widely and may include career advancement opportunities, dissatisfaction with the work environment, seeking better compensation or benefits, personal reasons, or pursuing other career options.
-2.  Involuntary Attrition: Involuntary attrition happens when the employer separates employees from their jobs. This can include layoffs, termination due to performance issues or policy violations, or other circumstances where the employer initiates the departure.
-This project seeks to assess the rate of attrition in an organization, discover some major factors contributing to attrition, and suggest ways to mitigate them
+Employee attrition, also known as staff turnover, measures the frequency at which employees leave a company during a specific timeframe. It's a vital HR metric that quantifies the percentage of departures, whether voluntary or involuntary, and subsequent replacements. Voluntary attrition occurs when employees leave willingly, often due to factors like career growth, dissatisfaction, or better opportunities elsewhere. Involuntary attrition, on the other hand, involves employer-initiated departures such as layoffs or performance-related terminations. This project aims to assess attrition rates, identify key contributing factors, and propose strategies for reduction within the organization.
 
 ## About the Data
 The dataset is a CSV file that contains one table, consisting of 1470 rows and 32 columns of the Employees hiring records and performance. The dataset can be found here.
