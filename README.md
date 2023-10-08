@@ -1,5 +1,6 @@
 # HR_Attrition_Employee_Report
 ![](attrtion_image.jpg)
+
 ## Background
 Employee attrition, often referred to as staff attrition or employee turnover, is the rate at which employees leave an organization over a specific period of time. A critical human resources (HR) metric quantifies the number or percentage of employees who voluntarily or involuntarily depart from their jobs and are replaced by new employees. 
 There are two main types of employee attrition:
