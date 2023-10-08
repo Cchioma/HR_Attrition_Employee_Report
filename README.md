@@ -89,19 +89,19 @@ During data analysis, several key performance indicators (KPIs) were identified.
 10.	The highest attrition was observed when monthly income was at 2000, with 95 cases, followed by 4000 and 3000.
 ![](monthly_income.PNG)
 
-12.  	At a work-life balance level of 3, there was the highest attrition rate (127), significantly higher than level 1 with the lowest attrition (25).
+11.	At a work-life balance level of 3, there was the highest attrition rate (127), significantly higher than level 1 with the lowest attrition (25).
 ![](work_life.PNG)
 
-13. 	Travel_Rarely had the highest attrition at 156, followed by "Travel_Frequently" at 69, and "Non-Travel" at 12.
+12.	Travel_Rarely had the highest attrition at 156, followed by "Travel_Frequently" at 69, and "Non-Travel" at 12.
  ![](business_travel.PNG)
  
-14.  	Job Level 1 had the highest attrition at 143, followed by levels 2 and 3.
+13.	Job Level 1 had the highest attrition at 143, followed by levels 2 and 3.
 ![](job_level.PNG)
 
-15.	Attrition ranged from 6 to 98 across different levels of training times last year.
+14.	Attrition ranged from 6 to 98 across different levels of training times last year.
 ![](training_time.PNG)
 
-16.  	Research & Development had the highest attrition at 133, followed by "Sales" at 92, and "Human Resources" at 12.
+15.	Research & Development had the highest attrition at 133, followed by "Sales" at 92, and "Human Resources" at 12.
 ![](departmnt.PNG)
 
 ## Recommendations
