@@ -1,5 +1,5 @@
 # HR_Attrition_Employee_Report
-[](https://github.com/Cchioma/HR_Attrition_Employee_Report/blob/main/attrtion_image.jpg)
+[]('attrtion_image.jpg')
 ## Background
 Analysis of the Attrition of Employees from a Company
 
