@@ -49,7 +49,7 @@ The dataset was imported into Power BI’s Power Query for data validation and c
 )
 
 )
-4.	Created the following DAX Measures to help in defining KPI’s:
+4.	Created the following DAX Measures to help in defining KPIs:
     a.	Attrition Rate = ([Attrition] /'_Measures'[Total Employees]) 
     b.	Attrition = CALCULATE('_Measures'[Total Employees], 'HR-Employee-            Attrition'[Attrition] = "Yes")
     c.	Active Employees = CALCULATE('_Measures'[Total Employees], 'HR-              Employee-Attrition'[Attrition] = "No")
@@ -60,20 +60,16 @@ During data analysis, several key performance indicators (KPIs) were identified.
 ![](kpi.PNG)
 
 1.	Employees in the age group 25-34 had the highest attrition at 112, which was significantly higher (918.18%) than employees aged 55 and above (11 attritions)
-
-  ![](age_group.PNG)
+![](age_group.PNG)
   
 2.	Singles had the highest Attrition at 120, followed by the Married at 84 and divorced at 33.
-
-   ![](marital_status.PNG)
+![](marital_status.PNG)
    
 3.	Male employees had a higher attrition rate (150) compared to female employees (87).
-
-   ![](gender.PNG)
+ ![](gender.PNG)
    
 4.	The job role "Laboratory Technician" had the highest attrition at 62, which was 416.67% higher than the job role "Human Resources" with the lowest attrition (12).
-
-   ![](job_role.PNG)
+ ![](job_role.PNG)
    
 5.	Job satisfaction ranged from 46 to 73 across four levels.
 7.	In the "Life Sciences" education field, attrition was the highest at 89, significantly surpassing "Human Resources" with the lowest attrition at 7.
