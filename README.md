@@ -1,14 +1,20 @@
 # HR_Attrition_Employee_Report
 ![](attrtion_image.jpg)
 ## Background
-Analysis of the Attrition of Employees from a Company
+Employee attrition, often referred to as staff attrition or employee turnover, is the rate at which employees leave an organization over a specific period of time. A critical human resources (HR) metric quantifies the number or percentage of employees who voluntarily or involuntarily depart from their jobs and are replaced by new employees. 
+There are two main types of employee attrition:
+1.  Voluntary Attrition: This occurs when employees choose to leave their jobs voluntarily. Reasons for voluntary attrition can vary widely and may include career advancement opportunities, dissatisfaction with the work environment, seeking better compensation or benefits, personal reasons, or pursuing other career options.
+2.  Involuntary Attrition: Involuntary attrition happens when the employer separates employees from their jobs. This can include layoffs, termination due to performance issues or policy violations, or other circumstances where the employer initiates the departure.
+This project seeks to assess the rate of attrition in an organization, discover some major factors contributing to attrition, and suggest ways to mitigate them
 
 ## About the Data
-The dataset is a csv file that contains one table, consisting of 1470 rows and 32 columns of the Employees hiring records and performance. The dataset can be found here.
+The dataset is a CSV file that contains one table, consisting of 1470 rows and 32 columns of the Employees hiring records and performance. The dataset can be found here.
+
 ## Business Problem
-What is the overall attrition rate in the company?
+The following are some business questions the project seeks to assess:
+1.  What is the overall attrition rate in the company?
 2.	What is the average age of an Employee?
-3.	How does attrition vary by age groups?
+3.	How does attrition vary by age group?
 4.	What is the overall attrition rate in the company?
 5.	Is there a significant difference in attrition rates between different business travel categories (e.g., Travel Frequently, Rarely, Non-Travel)?
 6.	Does gender play a role in attrition rates?
@@ -21,6 +27,7 @@ What is the overall attrition rate in the company?
 13.	Is there a relationship between monthly income and attrition
 
 ## Skills/ Concepts applied
+The following skills and concepts wer applied throughout the course of this project:
 1.	Defining KPIs
 2.	Cleaning/Validation in Power Query
 3.	Power BI DAX Concepts: Calculated Measures
@@ -30,7 +37,7 @@ What is the overall attrition rate in the company?
 7.	Insights & Actions
 
 ## Data Transformation / Cleaning
-The dataset was imported into Power BI’s Power Query for data validation and cleaning. The column profiling was changed from ‘based on Top 1000 rows’ to ‘based on entire dataset’. ‘Column quality’ and ‘Column distribution’ checkboxes were selected to get a summary information about each column for effective cleaning/Preprocessing. The process is as outlined below:
+The dataset was imported into Power BI’s Power Query for data validation and cleaning.  ‘Column quality’ and ‘Column distribution’ checkboxes were selected to get summary information about each column for effective cleaning/Preprocessing. The processes are outlined below:
 1.	Changed EmployeeNumber column to EmployeeId
 2.	Deleted redundant columns ( 'EmployeeCount', 'StandardHours', 'Over18').
 3.	Created an 'AgeGroup' column using the following DAX code:
