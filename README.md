@@ -1,14 +1,14 @@
-# HR_Attrition_Employee_Report
+# HR Attrition Employee Report
 ![](attrtion_image.jpg)
 
 ## Background
-Employee attrition, also known as staff turnover, measures the frequency at which employees leave a company during a specific timeframe. It's a vital HR metric that quantifies the percentage of departures, whether voluntary or involuntary, and subsequent replacements. Voluntary attrition occurs when employees leave willingly, often due to factors like career growth, dissatisfaction, or better opportunities elsewhere. Involuntary attrition, on the other hand, involves employer-initiated departures such as layoffs or performance-related terminations. This project aims to assess attrition rates, identify key contributing factors, and propose strategies for reduction within the organization.
+Employee attrition, also known as staff turnover, measures the frequency at which employees leave a company during a specific timeframe. It's a vital HR metric that quantifies the percentage of departures, whether voluntary or involuntary and subsequent replacements. Voluntary attrition occurs when employees leave willingly, often due to factors like career growth, dissatisfaction, or better opportunities elsewhere. Involuntary attrition, on the other hand, involves employer-initiated departures such as layoffs or performance-related terminations. This project aims to assess attrition rates, identify key contributing factors, and propose strategies for reduction within the organization.
 
 ## About the Data
 The dataset is a CSV file that contains one table, consisting of 1470 rows and 32 columns of the Employees hiring records and performance. The dataset can be found here.
 
 ## Business Problem
-The following are some business questions the project seeks to assess:
+The following are some business questions this project seeks to assess:
 1.  What is the overall attrition rate in the company?
 2.	What is the average age of an Employee?
 3.	How does attrition vary by age group?
@@ -24,7 +24,7 @@ The following are some business questions the project seeks to assess:
 13.	Is there a relationship between monthly income and attrition
 
 ## Skills/ Concepts applied
-The following skills and concepts wer applied throughout the course of this project:
+The following skills and concepts were applied throughout the course of this project:
 1.	Defining KPIs
 2.	Cleaning/Validation in Power Query
 3.	Power BI DAX Concepts: Calculated Measures
@@ -56,6 +56,9 @@ The dataset was imported into Power BI’s Power Query for data validation and c
     d.	Total Employees = COUNT('HR-Employee-Attrition'[EmployeeId])
 
 ## Data Visualization
+During data analysis, several key performance indicators (KPIs) were identified. The organization has a total workforce of 1470 employees, with 237 employees experiencing attrition, leaving 1233 as active employees. The average age of employees is calculated to be 36.92 years, and the attrition rate stands at 16%.
+![](kpi.PNG)
+
 
 ## Insights
 1.	Employees in the age group 25-34 had the highest attrition at 112, which was significantly higher (918.18%) than employees aged 55 and above (11 attritions)
