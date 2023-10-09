@@ -75,7 +75,7 @@ During data analysis, several key performance indicators (KPIs) were identified.
    ![](job_satisfaction.PNG)
   	
 6.	In the "Life Sciences" education field, attrition was the highest at 89, significantly surpassing "Human Resources" with the lowest attrition at 7.
-   ![](education_field.PNG)
+![](education_field.PNG)
   	
 7.	Employees with 1 year at the company had the highest attrition rate at 98, significantly higher than those with 8 years (the lowest at 6).
 ![](years_company.PNG)
