@@ -51,20 +51,22 @@ AgeGroup =
 
 )
 ```
-4.	Created the following DAX Measures to help in defining KPIs:
-    a.	```
+4.	Created an Attrition rate measure
+    	```
   	Attrition Rate = ([Attrition] /'_Measures'[Total Employees])
   	```
+5.	Created an Attrition measure
    
-    b.	```
-   Attrition = CALCULATE('_Measures'[Total Employees], 'HR-Employee-            Attrition'[Attrition] = "Yes")
+    	```
+   Attrition = CALCULATE('_Measures'[Total Employees], 'HR-		Employee-            Attrition'[Attrition] = "Yes")
    ```
-
-    c.	```
+6.	Created an Active Employees measure
+    	```
 Active Employees = CALCULATE('_Measures'[Total Employees], 'HR-              Employee-Attrition'[Attrition] = "No")
 	```
+7. Created a Total Employees measure
 
-    d.	```
+    	```
 Total Employees = COUNT('HR-Employee-Attrition'[EmployeeId])
 	```
 
