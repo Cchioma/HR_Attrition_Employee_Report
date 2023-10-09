@@ -89,12 +89,15 @@ Two dashboards have been designed to provide insights into the dataset. The firs
 
 
 1.	Employees in the age group 25-34 had the highest attrition at 112, which was significantly higher (918.18%) than employees aged 55 and above (11 attritions)
+
 ![](age_group.PNG)
   
 2.	Singles had the highest Attrition at 120, followed by the Married at 84 and divorced at 33.
+
 ![](marital_status.PNG)
    
 3.	Male employees had a higher attrition rate (150) compared to female employees (87).
+
  ![](gender.PNG)
    
 4.	The job role "Laboratory Technician" had the highest attrition at 62, which was 416.67% higher than the job role "Human Resources" with the lowest attrition (12).
