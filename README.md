@@ -146,11 +146,16 @@ Two dashboards have been designed to provide insights into the dataset. The firs
 1.	Consider conducting surveys or assessments to understand the reasons for higher attrition in the 25-34 age group and implement targeted retention strategies
 2.	Investigate the factors contributing to higher attrition among male employees and tailor retention efforts accordingly.
 3.	Explore the work environment and job satisfaction specific to Laboratory Technicians to address attrition concerns.
-4.	Focus on understanding the drivers of job satisfaction and consider initiatives to improve overall job satisfaction levels.
+4.	Focus on improving relationship satisfaction among employees to reduce attrition. Encourage open communication, provide support, and address workplace concerns.
 5.	Investigate whether there are specific challenges or opportunities related to the Life Sciences field and tailor retention strategies accordingly.
-6.	Explore why employees with just one year of tenure are leaving and consider onboarding and engagement strategies.
-7.	Investigate whether there are patterns related to employees who have worked at multiple companies and develop strategies to retain them.
-8.	Conduct surveys, exit interviews, and deeper analyses to uncover the root causes of attrition.
+6.	Consider offering competitive compensation packages and benefits to retain employees.
+7.	Promote a healthy work-life balance through flexible work arrangements and stress management programs to reduce attrition among employees.
+8.	Consider alternatives like remote work or reduced travel to address attrition concerns.
+9.	Evaluate the effectiveness of training programs and align them with career development goals to improve employee retention.
+10.	Explore why employees with just one year of tenure are leaving and consider onboarding and engagement strategies.
+11.	Investigate whether there are patterns related to employees who have worked at multiple companies and develop strategies to retain them.
+12.	Address career progression and development opportunities for employees at lower job levels to increase retention.
+13.	Conduct surveys, exit interviews, and deeper analyses to uncover the root causes of attrition.
 
 
 
