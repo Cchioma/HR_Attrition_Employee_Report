@@ -51,10 +51,11 @@ AgeGroup =
 
 )
 ```
+
 4.	Created an Attrition rate measure
-```
+ ```
   	Attrition Rate = ([Attrition] /'_Measures'[Total Employees])
-  	```
+ ```
    
 5.	Created an Attrition measure
 
