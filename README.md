@@ -83,27 +83,35 @@ During data analysis, several key performance indicators (KPIs) were identified.
 ![](years_company.PNG)
 	
 10.	Employees who have worked at 1 company had the highest attrition rate at 59, followed by those with 2 and 5 companies worked.
+    
 ![](company_worked.PNG)
 
-11.	At a relationship satisfaction level of 3, there was the highest attrition rate (71), which was 57.78% higher than level 2 with the lowest attrition (45).
+12.	At a relationship satisfaction level of 3, there was the highest attrition rate (71), which was 57.78% higher than level 2 with the lowest attrition (45).
+    
 ![](relationship_satisfaction.PNG)
 
-12.	The highest attrition was observed when monthly income was at 2000, with 95 cases, followed by 4000 and 3000.
+13.	The highest attrition was observed when monthly income was at 2000, with 95 cases, followed by 4000 and 3000.
+    
 ![](monthly_income.PNG)
 
-13.	At a work-life balance level of 3, there was the highest 	attrition rate (127), significantly higher than level 1 	with the lowest attrition (25).
+14.	At a work-life balance level of 3, there was the highest attrition rate (127), significantly higher than level 1 	with the lowest attrition (25).
+    
 ![](work_life.PNG)
 
-14.	Travel_Rarely had the highest attrition at 156, followed 	by "Travel_Frequently" at 69, and "Non-Travel" at 12.
+15.	Travel_Rarely had the highest attrition at 156, followed by "Travel_Frequently" at 69, and "Non-Travel" at 12.
+    
  ![](business_travel.PNG)
  
-15.	Job Level 1 had the highest attrition at 143, followed by 	levels 2 and 3.
+16.	Job Level 1 had the highest attrition at 143, followed by levels 2 and 3.
+    
 ![](job_level.PNG)
 
-16.	Attrition ranged from 6 to 98 across different levels of 	training times last year.
+17.	Attrition ranged from 6 to 98 across different levels of training times last year.
+    
 ![](training_time.PNG)
 
-17.	Research & Development had the highest attrition at 133, 	followed by "Sales" at 92, and "Human Resources" at 12.
+18.	Research & Development had the highest attrition at 133, followed by "Sales" at 92, and "Human Resources" at 12.
+    
 ![](departmnt.PNG)
 
 ## Recommendations
