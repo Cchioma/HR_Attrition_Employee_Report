@@ -38,7 +38,8 @@ The dataset was imported into Power BI’s Power Query for data validation and c
 1.	Changed EmployeeNumber column to EmployeeId
 2.	Deleted redundant columns ( 'EmployeeCount', 'StandardHours', 'Over18').
 3.	Created an 'AgeGroup' column using the following DAX code:
- ```  AgeGroup = 
+ ```
+AgeGroup = 
   SWITCH(
     		TRUE(),
     		'HR-Employee-Attrition'[Age] >= 18 && 'HR-Employee-Attrition'[Age] <= 24, "18-24",
