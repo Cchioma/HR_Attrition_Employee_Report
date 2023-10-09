@@ -78,6 +78,15 @@ Total Employees = COUNT('HR-Employee-Attrition'[EmployeeId])
 During data analysis, several key performance indicators (KPIs) were identified. The organization has a total workforce of 1470 employees, with 237 employees experiencing attrition, leaving 1233 active employees. The average age of employees is calculated to be 36.92 years, and the attrition rate stands at 16%.
 ![](kpi.PNG)
 
+Two dashboards have been designed to provide insights into the dataset. The first dashboard, known as "Employee Overview," focuses on analyzing employee demographics and key details, exploring their impact on employee attrition. The second dashboard, named "Employee Satisfaction," delves into the factors that contribute to employee satisfaction in both their job and overall life. Additionally, it examines how these factors may influence employee attrition.
+
+## Employee Overview
+![](HR_ATTRITION_REPORT9a.png)
+
+## Employee Satisfaction
+![](HR_ATTRITION_REPORT9b.png)
+
+
 1.	Employees in the age group 25-34 had the highest attrition at 112, which was significantly higher (918.18%) than employees aged 55 and above (11 attritions)
 ![](age_group.PNG)
   
