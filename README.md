@@ -101,12 +101,14 @@ Two dashboards have been designed to provide insights into the dataset. The firs
  ![](gender.PNG)
    
 4.	The job role "Laboratory Technician" had the highest attrition at 62, which was 416.67% higher than the job role "Human Resources" with the lowest attrition (12).
+ 
  ![](job_role.PNG)
    
 5.	Job satisfaction ranged from 46 to 73 across four levels.
-   ![](job_satisfaction.PNG)
+
+ ![](job_satisfaction.PNG)
   	
-6.	In the "Life Sciences" education field, attrition was the highest at 89, significantly surpassing "Human Resources" with the lowest attrition at 7.
+7.	In the "Life Sciences" education field, attrition was the highest at 89, significantly surpassing "Human Resources" with the lowest attrition at 7.
    
 ![](education_field.PNG)
   	
