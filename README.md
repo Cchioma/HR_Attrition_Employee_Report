@@ -75,33 +75,35 @@ During data analysis, several key performance indicators (KPIs) were identified.
    ![](job_satisfaction.PNG)
   	
 6.	In the "Life Sciences" education field, attrition was the highest at 89, significantly surpassing "Human Resources" with the lowest attrition at 7.
+   
 ![](education_field.PNG)
   	
-7.	Employees with 1 year at the company had the highest attrition rate at 98, significantly higher than those with 8 years (the lowest at 6).
+8.	Employees with 1 year at the company had the highest attrition rate at 98, significantly higher than those with 8 years (the lowest at 6).
+   
 ![](years_company.PNG)
 	
-8.	Employees who have worked at 1 company had the highest attrition rate at 59, followed by those with 2 and 5 companies worked.
+10.	Employees who have worked at 1 company had the highest attrition rate at 59, followed by those with 2 and 5 companies worked.
 ![](company_worked.PNG)
 
-9.	At a relationship satisfaction level of 3, there was the highest attrition rate (71), which was 57.78% higher than level 2 with the lowest attrition (45).
+11.	At a relationship satisfaction level of 3, there was the highest attrition rate (71), which was 57.78% higher than level 2 with the lowest attrition (45).
 ![](relationship_satisfaction.PNG)
 
-10.	The highest attrition was observed when monthly income was at 2000, with 95 cases, followed by 4000 and 3000.
+12.	The highest attrition was observed when monthly income was at 2000, with 95 cases, followed by 4000 and 3000.
 ![](monthly_income.PNG)
 
-11.	At a work-life balance level of 3, there was the highest 	attrition rate (127), significantly higher than level 1 	with the lowest attrition (25).
+13.	At a work-life balance level of 3, there was the highest 	attrition rate (127), significantly higher than level 1 	with the lowest attrition (25).
 ![](work_life.PNG)
 
-12.	Travel_Rarely had the highest attrition at 156, followed 	by "Travel_Frequently" at 69, and "Non-Travel" at 12.
+14.	Travel_Rarely had the highest attrition at 156, followed 	by "Travel_Frequently" at 69, and "Non-Travel" at 12.
  ![](business_travel.PNG)
  
-13.	Job Level 1 had the highest attrition at 143, followed by 	levels 2 and 3.
+15.	Job Level 1 had the highest attrition at 143, followed by 	levels 2 and 3.
 ![](job_level.PNG)
 
-14.	Attrition ranged from 6 to 98 across different levels of 	training times last year.
+16.	Attrition ranged from 6 to 98 across different levels of 	training times last year.
 ![](training_time.PNG)
 
-15.	Research & Development had the highest attrition at 133, 	followed by "Sales" at 92, and "Human Resources" at 12.
+17.	Research & Development had the highest attrition at 133, 	followed by "Sales" at 92, and "Human Resources" at 12.
 ![](departmnt.PNG)
 
 ## Recommendations
