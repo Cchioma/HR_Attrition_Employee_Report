@@ -163,6 +163,8 @@ Two dashboards have been designed to provide insights into the dataset. The firs
 12.	Address career progression and development opportunities for employees at lower job levels to increase retention.
 13.	Conduct surveys, exit interviews, and deeper analyses to uncover the root causes of attrition.
 
+![](thank_you1.jpg)
+
 
 
 
