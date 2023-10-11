@@ -81,9 +81,11 @@ During data analysis, several key performance indicators (KPIs) were identified.
 Two dashboards have been designed to provide insights into the dataset. The first dashboard, known as "Employee Overview," focuses on analyzing employee demographics and key details, exploring their impact on employee attrition. The second dashboard, named "Employee Satisfaction," delves into the factors that contribute to employee satisfaction in both their job and overall life. Additionally, it examines how these factors may influence employee attrition.
 
 ## Employee Overview
+
 ![](HR_ATTRITION_REPORT9a.png)
 
 ## Employee Satisfaction
+
 ![](HR_ATTRITION_REPORT9b.png)
 
 
