@@ -5,7 +5,7 @@
 Employee attrition, also known as staff turnover, measures the frequency at which employees leave a company during a specific timeframe. It's a vital HR metric that quantifies the percentage of departures, whether voluntary or involuntary and subsequent replacements. Voluntary attrition occurs when employees leave willingly, often due to factors like career growth, dissatisfaction, or better opportunities elsewhere. Involuntary attrition, on the other hand, involves employer-initiated departures such as layoffs or performance-related terminations. This project aims to assess attrition rates, identify key contributing factors, and propose strategies for reduction within the organization.
 
 ## About the Data
-The dataset is a CSV file that contains one table, consisting of 1470 rows and 32 columns of the Employees hiring records and performance. The dataset can be found ![here](HR-Employee-Attrition.csv).
+The dataset is a CSV file that contains one table, consisting of 1470 rows and 32 columns of the Employees hiring records and performance. The dataset can be found [here](HR-Employee-Attrition.csv).
 
 ## Business Problem
 The following are some business questions this project seeks to assess:
